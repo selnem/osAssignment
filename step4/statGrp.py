@@ -10,7 +10,7 @@ myTime = datetime.now()
 #wc, youtube 폴더명
 statName=["wcStat","youtubeStat"]
 
-plt.rcParams["font.family"] = "Noto Sans CJK KR"
+plt.rcParams["font.family"] = "NanumGothic"
 plt.rcParams["axes.unicode_minus"] = False
 
 
