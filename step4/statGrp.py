@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from matplotlib import font_manager
 from datetime import datetime
 from pathlib import Path
 
@@ -9,8 +10,14 @@ myTime = datetime.now()
 #wc, youtube 폴더명
 statName=["wcStat","youtubeStat"]
 
-# 리눅스 한글 폰트(없으면 sans-serif로 대체)
-plt.rcParams["font.family"] = "Noto Sans CJK KR"
+#폰트 꺠짐 (ai를 활용해서 수정하였습니다)
+available_fonts = {f.name for f in font_manager.fontManager.ttflist}
+for font_name in ("Noto Sans CJK KR", "NanumGothic", "Noto Serif CJK KR"):
+    if font_name in available_fonts:
+        plt.rcParams["font.family"] = font_name
+        break
+else:
+    plt.rcParams["font.family"] = "sans-serif"
 plt.rcParams["axes.unicode_minus"] = False
 
 
