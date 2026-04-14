@@ -1,0 +1,101 @@
+Linux 5.4.0-216-generic (user2024128055) 	04/14/2026 	_aarch64_	(1 CPU)
+
+04:29:29 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:30 AM     all      7.00      0.00      0.00      0.00      0.00     93.00
+04:29:30 AM       0      7.00      0.00      0.00      0.00      0.00     93.00
+
+04:29:30 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:31 AM     all      1.00      0.00      1.00      1.00      0.00     97.00
+04:29:31 AM       0      1.00      0.00      1.00      1.00      0.00     97.00
+
+04:29:31 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:32 AM     all      2.00      0.00      0.00      0.00      0.00     98.00
+04:29:32 AM       0      2.00      0.00      0.00      0.00      0.00     98.00
+
+04:29:32 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:33 AM     all      2.04      0.00      0.00      0.00      0.00     97.96
+04:29:33 AM       0      2.04      0.00      0.00      0.00      0.00     97.96
+
+04:29:33 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:34 AM     all      1.98      0.00      0.99      0.00      0.00     97.03
+04:29:34 AM       0      1.98      0.00      0.99      0.00      0.00     97.03
+
+04:29:34 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:35 AM     all      1.00      0.00      0.00      0.00      0.00     99.00
+04:29:35 AM       0      1.00      0.00      0.00      0.00      0.00     99.00
+
+04:29:35 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:36 AM     all      1.01      0.00      1.01      0.00      0.00     97.98
+04:29:36 AM       0      1.01      0.00      1.01      0.00      0.00     97.98
+
+04:29:36 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:37 AM     all      4.04      0.00      0.00      0.00      0.00     95.96
+04:29:37 AM       0      4.04      0.00      0.00      0.00      0.00     95.96
+
+04:29:37 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:38 AM     all      1.02      0.00      0.00      0.00      0.00     98.98
+04:29:38 AM       0      1.02      0.00      0.00      0.00      0.00     98.98
+
+04:29:38 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:39 AM     all      1.00      0.00      1.00      0.00      0.00     98.00
+04:29:39 AM       0      1.00      0.00      1.00      0.00      0.00     98.00
+
+04:29:39 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:40 AM     all      5.00      0.00      0.00      0.00      0.00     95.00
+04:29:40 AM       0      5.00      0.00      0.00      0.00      0.00     95.00
+
+04:29:40 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:41 AM     all      2.00      0.00      1.00      0.00      0.00     97.00
+04:29:41 AM       0      2.00      0.00      1.00      0.00      0.00     97.00
+
+04:29:41 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:42 AM     all      0.00      0.00      1.00      0.00      0.00     99.00
+04:29:42 AM       0      0.00      0.00      1.00      0.00      0.00     99.00
+
+04:29:42 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:43 AM     all      0.00      0.00      0.99      0.00      0.00     99.01
+04:29:43 AM       0      0.00      0.00      0.99      0.00      0.00     99.01
+
+04:29:43 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:44 AM     all      0.00      0.00      0.00      0.00      0.00    100.00
+04:29:44 AM       0      0.00      0.00      0.00      0.00      0.00    100.00
+
+04:29:44 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:45 AM     all      1.00      0.00      0.00      0.00      0.00     99.00
+04:29:45 AM       0      1.00      0.00      0.00      0.00      0.00     99.00
+
+04:29:45 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:46 AM     all      0.00      0.00      0.00      0.00      0.00    100.00
+04:29:46 AM       0      0.00      0.00      0.00      0.00      0.00    100.00
+
+04:29:46 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:47 AM     all      0.00      0.00      0.00      0.00      0.00    100.00
+04:29:47 AM       0      0.00      0.00      0.00      0.00      0.00    100.00
+
+04:29:47 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:48 AM     all      1.00      0.00      0.00      0.00      0.00     99.00
+04:29:48 AM       0      1.00      0.00      0.00      0.00      0.00     99.00
+
+04:29:48 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:49 AM     all      1.00      0.00      1.00      0.00      0.00     98.00
+04:29:49 AM       0      1.00      0.00      1.00      0.00      0.00     98.00
+
+04:29:49 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:50 AM     all      3.96      0.00      0.99      0.00      0.00     95.05
+04:29:50 AM       0      3.96      0.00      0.99      0.00      0.00     95.05
+
+04:29:50 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:51 AM     all      2.04      0.00      0.00      0.00      0.00     97.96
+04:29:51 AM       0      2.04      0.00      0.00      0.00      0.00     97.96
+
+04:29:51 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:52 AM     all      1.00      0.00      1.00      0.00      0.00     98.00
+04:29:52 AM       0      1.00      0.00      1.00      0.00      0.00     98.00
+
+04:29:52 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:53 AM     all      3.00      0.00      2.00      0.00      0.00     95.00
+04:29:53 AM       0      3.00      0.00      2.00      0.00      0.00     95.00
+
+04:29:53 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:29:54 AM     all      3.06      0.00      1.02      0.00      0.00     95.92
+04:29:54 AM       0      3.06      0.00      1.02      0.00      0.00     95.92
