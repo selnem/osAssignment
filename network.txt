@@ -1,0 +1,63 @@
+Linux 5.4.0-216-generic (user2024128055) 	04/14/2026 	_aarch64_	(1 CPU)
+
+03:00:24 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:25 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:25 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:25 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:26 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:26 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:26 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:27 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:27 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:27 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:28 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:28 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:28 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:29 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:29 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:29 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:30 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:30 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:30 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:31 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:31 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:31 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:32 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:32 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:32 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:34 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:34 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:34 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:35 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:35 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:35 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:36 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:36 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:36 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:37 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:37 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:37 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:38 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:38 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+03:00:38 AM     IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+03:00:39 AM        lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+03:00:39 AM    enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+
+
+Average:        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+Average:           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+Average:       enp0s8      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
