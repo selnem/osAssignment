@@ -10,7 +10,7 @@ myTime = datetime.now()
 statName=["wcStat","youtubeStat"]
 
 # 리눅스 한글 폰트(없으면 sans-serif로 대체)
-plt.rcParams["font.family"] = "NanumGothic"
+plt.rcParams["font.family"] = "Noto Sans CJK KR"
 plt.rcParams["axes.unicode_minus"] = False
 
 
