@@ -1,349 +1,209 @@
-Linux 5.4.0-216-generic (user2024128055) 	04/14/26 	_aarch64_	(4 CPU)
-
-13:10:38        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:39       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:39           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:39        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:40       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:40           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:40        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:41       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:41           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:41        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:42       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:42           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:42        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:43       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:43           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:43        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:44       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:44           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:44        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:45       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:45           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:45        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:46       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:46           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:46        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:47       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:47           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:47        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:48       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:48           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:48        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:49       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:49           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:49        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:50       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:50           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:50        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:51       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:51           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:51        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:52       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:52           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:52        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:53       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:53           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:53        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:54       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:54           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:54        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:55       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:55           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:55        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:56       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:56           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:56        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:57       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:57           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:57        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:58       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:58           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:58        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:10:59       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:10:59           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:10:59        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:00       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:00           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:00        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:01       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:01           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:01        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:02       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:02           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:02        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:03       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:03           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:03        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:04       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:04           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:04        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:05       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:05           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:05        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:06       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:06           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:06        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:07       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:07           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:07        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:08       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:08           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:08        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:09       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:09           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:09        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:10       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:10           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:10        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:11       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:11           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:11        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:12       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:12           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:12        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:13       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:13           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:13        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:14       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:14           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:14        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:15       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:15           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:15        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:16       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:16           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:16        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:17       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:17           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:17        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:18       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:18           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:18        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:19       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:19           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:19        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:20       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:20           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:20        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:21       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:21           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:21        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:22       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:22           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:22        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:23       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:23           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:23        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:24       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:24           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:24        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:25       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:25           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:25        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:26       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:26           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:26        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:27       enp0s1      2.00      0.00      0.21      0.00      0.00      0.00      0.00      0.00
-13:11:27           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:27        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:28       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:28           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:28        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:29       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:29           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:29        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:30       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:30           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:30        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:31       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:31           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:31        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:32       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:32           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:32        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:33       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:33           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:33        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:34       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:34           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:34        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:35       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:35           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:35        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:36       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:36           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:36        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:37       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:37           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:37        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:38       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:38           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:38        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:39       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:39           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:39        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:40       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:40           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:40        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:41       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:41           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:41        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:42       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:42           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:42        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:43       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:43           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:43        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:44       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:44           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:44        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:45       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:45           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:45        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:46       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:46           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:46        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:47       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:47           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:47        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:48       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:48           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:48        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:49       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:49           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:49        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:50       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:50           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:50        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:51       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:51           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:51        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:52       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:52           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:52        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:53       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:53           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:53        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:54       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:54           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:54        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:55       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:55           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:55        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:56       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:56           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:56        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:57       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:57           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:57        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:58       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:58           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:58        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:11:59       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:11:59           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:11:59        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:12:00       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:12:00           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:12:00        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:12:01       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:12:01           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:12:01        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:12:02       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:12:02           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:12:02        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:12:03       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:12:03           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:12:03        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:12:04       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:12:04           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-
-13:12:04        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
-13:12:05       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
-13:12:05           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+Linux 5.4.0-216-generic (user2024128055) 	04/15/26 	_aarch64_	(4 CPU)
+
+12:28:40        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:41           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:41       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:41        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:42           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:42       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:42        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:43           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:43       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:43        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:44           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:44       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:44        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:45           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:45       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:45        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:46           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:46       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:46        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:47           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:47       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:47        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:48           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:48       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:48        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:49           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:49       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:49        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:50           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:50       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:50        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:51           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:51       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:51        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:52           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:52       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:52        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:53           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:53       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:53        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:54           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:54       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:54        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:55           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:55       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:55        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:56           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:56       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:56        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:57           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:57       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:57        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:58           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:58       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:58        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:28:59           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:28:59       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:28:59        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:00           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:00       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:00        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:01           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:01       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:01        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:02           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:02       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:02        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:03           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:03       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:03        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:04           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:04       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:04        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:05           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:05       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:05        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:06           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:06       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:06        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:07           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:07       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:07        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:08           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:08       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:08        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:09           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:09       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:09        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:10           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:10       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:10        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:11           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:11       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:11        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:12           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:12       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:12        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:13           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:13       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:13        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:14           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:14       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:14        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:15           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:15       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:15        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:16           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:16       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:16        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:17           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:17       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:17        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:18           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:18       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:18        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:19           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:19       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:19        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:20           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:20       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:20        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:21           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:21       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:21        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:22           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:22       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:22        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:23           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:23       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:23        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:24           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:24       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:24        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:25           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:25       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:25        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:26           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:26       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:26        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:27           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:27       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:27        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:28           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:28       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:28        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:29           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:29       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:29        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:30           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:30       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:30        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:31           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:31       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+
+12:29:31        IFACE   rxpck/s   txpck/s    rxkB/s    txkB/s   rxcmp/s   txcmp/s  rxmcst/s   %ifutil
+12:29:32           lo      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+12:29:32       enp0s1      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
