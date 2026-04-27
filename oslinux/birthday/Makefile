@@ -1,4 +1,4 @@
-obj-m += linux2.o
+obj-m += birthday.o
 all:
 	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
 clean:

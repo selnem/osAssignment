@@ -1,0 +1,1 @@
+cmd_/home/user2024128055/osAssignment/oslinux/birthday/linux2.ko := ld -r  -EL  -maarch64elf -z noexecstack   --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/user2024128055/osAssignment/oslinux/birthday/linux2.ko /home/user2024128055/osAssignment/oslinux/birthday/linux2.o /home/user2024128055/osAssignment/oslinux/birthday/linux2.mod.o;  true

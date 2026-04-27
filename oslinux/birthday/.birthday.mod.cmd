@@ -1,0 +1,1 @@
+cmd_/home/user2024128055/osAssignment/oslinux/birthday/birthday.mod := { echo  /home/user2024128055/osAssignment/oslinux/birthday/birthday.o;  echo; } > /home/user2024128055/osAssignment/oslinux/birthday/birthday.mod
